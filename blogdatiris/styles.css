@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header {
+    background-color: #e988b9;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+h2 {
+    color: #e988b9;
+}
+.section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.galeria img {
+ 
+    margin: 10px;
+}
+
+.foto {width: 350px;}
+.footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #e988b9;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
